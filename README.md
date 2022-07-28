@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Curso de React ⚛️ desde cero gratuito 2020
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### [1. Aprendiendo React desde cero](https://youtu.be/T_j60n1zgu0)
+[![Aprendiendo React desde cero](https://img.youtube.com/vi/T_j60n1zgu0/mqdefault.jpg)](https://youtu.be/T_j60n1zgu0)
 
-## Available Scripts
+### [2. Crea un app con create-react-app](https://youtu.be/QBLbXgeXMU8)
+[![Crea un app con create-react-app](http://img.youtube.com/vi/QBLbXgeXMU8/mqdefault.jpg)](https://youtu.be/QBLbXgeXMU8)
 
-In the project directory, you can run:
+### [3. Custom Hooks y React Context](https://youtu.be/2qgs7buSnHQ)
+[![Crea un app con create-react-app](http://img.youtube.com/vi/2qgs7buSnHQ/mqdefault.jpg)](https://youtu.be/2qgs7buSnHQ)
 
-### `npm start`
+### [4. Lazy Load, Suspense y Paginación](https://youtu.be/VcxXipZg1-0)
+[![Lazy Load, Suspense y Paginación](http://img.youtube.com/vi/VcxXipZg1-0/mqdefault.jpg)](https://youtu.be/VcxXipZg1-0)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### [5. CSS Grid, Infinite Scroll y Testing](https://youtu.be/oCHdFiCgOSE)
+[![Lazy Load, Suspense y Paginación](http://img.youtube.com/vi/oCHdFiCgOSE/mqdefault.jpg)](https://youtu.be/oCHdFiCgOSE)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### [6. React.memo y Deploy con Vercel](https://youtu.be/Wo7_OVtu1ls)
+[![React.memo y Deploy con Vercel](http://img.youtube.com/vi/Wo7_OVtu1ls/mqdefault.jpg)](https://youtu.be/Wo7_OVtu1ls)
 
-### `npm test`
+### [7. SEO con React y Deploy integrado con GitHub](https://youtu.be/b-pwpHaYOTI)
+[![SEO con React y Deploy integrado con GitHub](http://img.youtube.com/vi/b-pwpHaYOTI/mqdefault.jpg)](https://youtu.be/b-pwpHaYOTI)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### [8. useReducer y testing de Hooks](https://youtu.be/Wjy_nlYXTik)
+[![SEO con React y Deploy integrado con GitHub](http://img.youtube.com/vi/Wjy_nlYXTik/mqdefault.jpg)](https://youtu.be/Wjy_nlYXTik)
 
-### `npm run build`
+### [9. Login y Sesión de Usuarios para guardar Favoritos en React](https://youtu.be/VT5S9Y49SYs)
+[![Login y Sesión de Usuarios para guardar Favoritos en React](http://img.youtube.com/vi/VT5S9Y49SYs/mqdefault.jpg)](https://youtu.be/VT5S9Y49SYs)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### [10. Registro de usuario con Formik, React.createPortal y gestión de favoritos en nuestra app de ReactJS](https://www.youtube.com/watch?v=dtbI6gDnTFU)
+[![Registro de usuario con Formik, React.createPortal y gestión de favoritos en nuestra app de ReactJS](http://img.youtube.com/vi/dtbI6gDnTFU/mqdefault.jpg)](https://youtu.be/dtbI6gDnTFU)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### [11. CSS en JS y Styled Components con Emotion](https://www.youtube.com/watch?v=DjVGdUM1dHQ)
+[![CSS en JS y Styled Components con Emotion](http://img.youtube.com/vi/DjVGdUM1dHQ/mqdefault.jpg)](https://youtu.be/DjVGdUM1dHQ)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### [¿Quieres más videos sobre frontend? ¡Suscríbete a mi canal!](https://www.youtube.com/c/midudev?sub_confirmation=1)
+[![canal de midudev de Youtube](https://yt3.ggpht.com/a/AATXAJzuyjCt8K0QD8x_PrTB11LTlvpX2iVWk4eCSQ=s176-c-k-c0xffffffff-no-rj-mo)](https://www.youtube.com/c/midudev?sub_confirmation=1)
